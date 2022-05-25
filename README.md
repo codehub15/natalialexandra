@@ -1,3 +1,3 @@
-# Hi there :wave::relaxed:, I'm Natalia,
+# Hi there :wave:, 
 
-full stack web developer with a focus on frontend
+I'm Natalia, full stack web developer with a focus on frontend.
